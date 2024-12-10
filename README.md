@@ -1,4 +1,4 @@
-# TransformarTxtEmCSV
+# Transformar Txt Em CSV
 Desafio 1  - Para o curso de IA da flyEducação em parceria com o I2A2.
 
 Este script Python lê arquivos `.txt` de um diretório, divide o texto em parágrafos e organiza esses parágrafos em uma matriz com um número fixo de colunas. A matriz resultante é então salva em arquivos `.csv`.
